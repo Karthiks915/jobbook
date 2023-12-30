@@ -39,9 +39,9 @@ Technologies used-
 
 Demo of the breadcrumb navigation
 
-[Insert gif here]
+![Breadcrumb navigation](https://i.imgur.com/VCapZMR.gif)
 
 Demo of the overlay tooltip
 
-[Insert gif here]
+![Overlay Tooltip](https://i.imgur.com/EBdM7Vw.gif)
 
