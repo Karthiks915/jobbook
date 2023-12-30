@@ -1,0 +1,34 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/*.freezed.dart": true,
+        "**/*.g.dart": true,
+        ".dart_tool": true,
+        ".idea": true,
+        ".vscode": true,
+        "android": true,
+        "linux": true,
+        "windows": true,
+        ".gitignore": true,
+        ".metadata": true,
+        "practice_v2.iml": true,
+        "pubspec.lock": true
+    },
+    "hide-files.files": [
+        ".dart_tool",
+        ".idea",
+        ".vscode",
+        "android",
+        "linux",
+        "windows",
+        ".gitignore",
+        ".metadata",
+        "practice_v2.iml",
+        "pubspec.lock"
+    ]
+}
